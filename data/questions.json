@@ -1,0 +1,138 @@
+{
+  "questions": [
+    {
+      "question": "What is React primarily used for?",
+      "options": [
+        "Backend Development",
+        "Building User Interfaces",
+        "Database Management"
+      ],
+      "answer": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is a feature of React?",
+      "options": [
+        "Two-way data binding",
+        "Virtual DOM",
+        "Automatic Dependency Injection"
+      ],
+      "answer": 1,
+      "points": 10
+    },
+    {
+      "question": "What is a component in React?",
+      "options": [
+        "A function that returns HTML",
+        "A built-in React method",
+        "A CSS style class"
+      ],
+      "answer": 0,
+      "points": 10
+    },
+    {
+      "question": "How do you pass data to a child component?",
+      "options": ["Using state", "Using props", "Using context"],
+      "answer": 1,
+      "points": 10
+    },
+    {
+      "question": "Which method is used to update the state in a React component?",
+      "options": ["setState()", "updateState()", "changeState()"],
+      "answer": 0,
+      "points": 10
+    },
+    {
+      "question": "What is JSX in React?",
+      "options": [
+        "A CSS preprocessor",
+        "A syntax extension for JavaScript",
+        "A database management system"
+      ],
+      "answer": 1,
+      "points": 10
+    },
+    {
+      "question": "Which lifecycle method is invoked immediately after a component is added to the DOM?",
+      "options": [
+        "componentDidMount",
+        "componentWillMount",
+        "componentWillUnmount"
+      ],
+      "answer": 0,
+      "points": 10
+    },
+    {
+      "question": "In which phase of the React component lifecycle is `render()` method called?",
+      "options": ["Initialization", "Mounting", "Updating"],
+      "answer": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the `key` prop in React lists?",
+      "options": [
+        "To identify unique elements",
+        "To apply styles",
+        "To trigger re-renders"
+      ],
+      "answer": 0,
+      "points": 10
+    },
+    {
+      "question": "How can you handle form submission in React?",
+      "options": [
+        "Using `onSubmit` event",
+        "Using `onClick` event",
+        "Using `onChange` event"
+      ],
+      "answer": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of React Router?",
+      "options": [
+        "To handle HTTP requests",
+        "To manage URL routes in a single-page application",
+        "To optimize React performance"
+      ],
+      "answer": 1,
+      "points": 10
+    },
+    {
+      "question": "What does `useState` hook do in a functional component?",
+      "options": [
+        "Manages side effects",
+        "Handles state within the component",
+        "Manages component lifecycle"
+      ],
+      "answer": 1,
+      "points": 10
+    },
+    {
+      "question": "What is a higher-order component (HOC) in React?",
+      "options": [
+        "A component that is passed as a prop",
+        "A function that returns a new component",
+        "A built-in React method"
+      ],
+      "answer": 1,
+      "points": 10
+    },
+    {
+      "question": "How do you perform side effects in a functional component?",
+      "options": [
+        "Using `useEffect`",
+        "Using `useState`",
+        "Using `useContext`"
+      ],
+      "answer": 0,
+      "points": 10
+    },
+    {
+      "question": "Which hook would you use to manage global state in a React application?",
+      "options": ["useState", "useEffect", "useContext"],
+      "answer": 2,
+      "points": 10
+    }
+  ]
+}
